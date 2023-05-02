@@ -16,4 +16,4 @@ The Excel dashboard includes the following features:
 
 ## How to Use the Dashboard
 
-To use the dashboard, open the *Bike Buyers Dashboard* Excel file and navigate to the slicers. You can filter the data by selecting the relevant factors such as martial status, income, and education. The charts and graphs will automatically update to reflect the filtered data.
+To use the dashboard, open the **Bike Buyers Dashboard** Excel file and navigate to the slicers. You can filter the data by selecting the relevant factors such as martial status, income, and education. The charts and graphs will automatically update to reflect the filtered data.
