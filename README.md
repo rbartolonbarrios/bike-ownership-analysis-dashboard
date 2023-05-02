@@ -4,7 +4,7 @@ This Excel dashboard is designed to analyze various factors that contribute to b
 
 ## Data Source
 
-The data used for this dashboard was obtained from a publicly available dataset on Kaggle. The dataset includes information on a sample of 1000 individuals and their bike ownership status, as well as various demographic factors such as age, income, marital status, commuting distance to work, region, etc. The dataset used for this dashboard has been cleaned and filtered to focus specifically on the factors that contribute to bike ownership. For more information about the original dataset, please refer to the Kaggle page where the dataset was obtained [Bike Buyers 1000](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
+The data used for this dashboard was obtained from a publicly available dataset on Kaggle. The dataset includes information on a sample of 1000 individuals and their bike ownership status, as well as various demographic factors such as age, income, marital status, commuting distance to work, region, etc. For more information about the original dataset, please refer to the Kaggle page where the dataset was obtained [Bike Buyers 1000](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
 
 
 ## Dashboard Features
