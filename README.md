@@ -1,5 +1,7 @@
 # Excel Dashboard for Bike Ownership Analysis
 
+![](BikeBuyersDashboard.png)
+
 This Excel dashboard is designed to analyze various factors that contribute to bike ownership. The data used for this dashboard includes factors such as age, income, marital status, commuting distance to work, region, etc. The dashboard is created using pivot tables and is intended to help users quickly identify trends and patterns in the data.
 
 ## Data Source
