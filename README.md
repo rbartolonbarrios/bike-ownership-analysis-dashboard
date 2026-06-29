@@ -22,9 +22,8 @@ The data used for this dashboard was obtained from a publicly available dataset 
 
 - Built an interactive Excel dashboard using PivotTables and PivotCharts.
 - Implemented slicers for dynamic filtering by marital status, education level, and geographic region.
-- Compared bike ownership across demographic groups including age, gender, income, and commute distance.
+- Compared bike ownership across demographic groups, including age, gender, income, and commute distance.
 - Designed visualizations that support interactive exploratory analysis without requiring formulas or VBA.
-- 
 
 ## How to Use the Dashboard
 
