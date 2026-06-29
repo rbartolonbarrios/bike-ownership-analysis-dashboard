@@ -1,4 +1,4 @@
-# Bike Ownership Analysis Dashbaord
+# Bike Ownership Analysis Dashboard
 
 ![](BikeBuyersDashboard.png)
 
